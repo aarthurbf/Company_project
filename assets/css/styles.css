@@ -52,6 +52,11 @@
     background-color: var(--bg-blue-2);
 }
 
+.card-image{
+    height: 14rem ;
+    width: 14rem ;
+}
+
 .card:hover .icon{
     transform: scale(1.3);
 }
