@@ -57,7 +57,7 @@
 }
 
 .icon-social,.icon-contato{
-    font-style: 2rem;
+    font-size: 2rem;
     color: var(--bg-blue-1);
     transition: .5s;
 }
