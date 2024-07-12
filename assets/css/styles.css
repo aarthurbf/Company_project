@@ -2,6 +2,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 :root{
     --bg-blue-1: #11429e;
     --bg-blue-2: #f6f9ff;
